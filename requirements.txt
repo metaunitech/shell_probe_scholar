@@ -1,0 +1,5 @@
+pymupdf
+pillow
+loguru
+langchain
+langchain-openai
